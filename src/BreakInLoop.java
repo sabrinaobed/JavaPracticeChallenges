@@ -6,7 +6,7 @@ public class BreakInLoop {
         while(true){
             System.out.print("Enter you command: ");
             String command = input.next();
-            if(command.equals("exit")){
+            if(command.equals("exit")){ //you can also equalsIgnoreCae in case of string only
                 break;
             }
         }
