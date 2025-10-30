@@ -1,4 +1,4 @@
-package FileWriteAndReadHandlingWithException;
+package in.kgcoding.FileWriteAndReadHandlingWithException;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
